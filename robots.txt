@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://czxcab.cn/gk/gk/sitemap.xml
